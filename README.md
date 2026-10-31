@@ -129,6 +129,6 @@ jupyter result.ipynb
 ├── for_solution.c      # начальное условие и точное решение
 ├── main.c              # основной цикл по времени
 ├── params.txt          # файл параметров
-├── visualize.ipynb
+├── result.ipynb
 └── img/                # сюда сохраняются графики
 ```
