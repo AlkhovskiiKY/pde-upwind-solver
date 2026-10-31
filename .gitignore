@@ -1,0 +1,14 @@
+*.o
+solver
+solver.exe
+a.out
+
+
+result*.csv
+*.dat
+
+
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
