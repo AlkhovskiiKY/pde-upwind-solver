@@ -11,4 +11,4 @@ result*.csv
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-
+*.exe
