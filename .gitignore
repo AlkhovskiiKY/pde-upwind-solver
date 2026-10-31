@@ -12,5 +12,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 *.exe
-".vscode/" 
+.vscode/
 *.pdf
